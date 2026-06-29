@@ -1,2 +1,3 @@
 # feat-initialize-image-compressor-tool
 chore: set up project configuration
+docs: add installation and usage guide
